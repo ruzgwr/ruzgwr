@@ -1,4 +1,4 @@
-<p align="center">## **Hi** I'm Ryu!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>![](https://komarev.com/ghpvc/?username=ryuahan)</p>
+<p align="center"><h1>**Hi I'm Ryu!!**</h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>![](https://komarev.com/ghpvc/?username=ryuahan)</p>
 
 <p align="center">
    <a href="https://discord.com/users/950078775700389921" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
