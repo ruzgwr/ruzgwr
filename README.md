@@ -8,4 +8,8 @@
 
 <p align="center"><img src="https://64.media.tumblr.com/5c2437c6c698a2e31f75cdeebe2eae7f/fd067444458fc204-83/s540x810/abc73313852303421da9f5e435732fbeacdec5b9.gifv"></p>
 
-![](https://komarev.com/ghpvc/?username=ryuahan)
+<div align="center">
+   <a href="https://discord.com/users/950078775700389921" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/950078775700389921?bg=111111">
+   </a>
+</div>
