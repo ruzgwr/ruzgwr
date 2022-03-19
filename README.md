@@ -7,4 +7,4 @@
    <a href="https://github.com/ryuahan" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.animeimages.net%2Fimages%2Fitachi-mangekyou-sharingan%2F&psig=AOvVaw07B11oxBqNUw03OHEQq79f&ust=1647812908249000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDDhM2T0_YCFQAAAAAdAAAAABAb">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primogif.com%2Fp%2FjcAeLEglrQPEk&psig=AOvVaw07B11oxBqNUw03OHEQq79f&ust=1647812908249000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDDhM2T0_YCFQAAAAAdAAAAABB_">
