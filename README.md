@@ -10,6 +10,6 @@
 
 <div align="center">
    <a href="https://discord.com/users/950078775700389921" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/950078775700389921?bg=111111">
+      <img src="https://lanyard-profile-readme.vercel.app/api/950078775700389921?bg=111111Message=%22𝙇𝙖𝙯𝙮%20𝙋𝙚𝙤𝙥𝙡𝙚%20𝙒𝙤𝙧𝙠%20𝙎𝙢𝙖𝙧𝙩𝙚𝙧.%22&borderRadius=25px">
    </a>
 </div>
