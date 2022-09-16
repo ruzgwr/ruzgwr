@@ -1,3 +1,5 @@
 
 <p align="center"> <h1 align="center"> Shu </h1> </p>
-![vanitas-no-carte-anime](https://user-images.githubusercontent.com/97761607/190633204-8fb08981-90bb-4047-a689-e0122bc21ee2.gif)
+<p align="center">
+	<img src=https://steamuserimages-a.akamaihd.net/ugc/824565659835126094/B4DBB3CB1982B696D8AFAF379FA238DFB6FF21B4/>
+</p>
